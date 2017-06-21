@@ -1,6 +1,6 @@
 FROM centos:centos7.3.1611
 
-MAINTAINER Couchbase Docker Team <docker@couchbase.com>
+MAINTAINER Marco Leung <marcoleungk@gmail.com>
 
 ENV PATH $PATH:/opt/couchbase-sync-gateway/bin
 
